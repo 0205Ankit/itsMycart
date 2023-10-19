@@ -12,7 +12,7 @@ export default function Poster() {
         slidesPerGroup={1}
         navigation={false}
         loop={true}
-        autoplay={false}
+        autoplay={true}
         pagination={true}
         allowTouchMove={true}
         spaceBetween={0}
