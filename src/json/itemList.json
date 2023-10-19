@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "categories": "Audio Speakers",
+      "name": "Wireless Audio System Multiroom 360",
+      "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/WirelessSound-300x300.png",
+      "price": "2,299.00",
+      "discountPrice": "",
+      "type": "featured"
+    },
+    {
+      "id": 2,
+      "categories": "Laptops, Ultrabooks",
+      "name": "Tablet Red EliteBook Revolve 810 G2",
+      "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/apptablet-300x300.png",
+      "price": "2,299.00",
+      "discountPrice": "2,100.00",
+      "type": "featured"
+    },
+    {
+      "id": 3,
+      "categories": "Headphones",
+      "name": "White Solo 2 Wireless",
+      "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/uniheadphone-300x300.png",
+      "price": "248.99",
+      "discountPrice": "",
+      "type": "featured"
+    },
+    {
+      "id": 4,
+      "categories": "Smartphones",
+      "name": "Smartphone 6S 32GB LTE",
+      "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/GoldPhone-1-300x300.png",
+      "price": "1,215.00",
+      "discountPrice": "1,100",
+      "type": "featured"
+    },
+    {
+      "id": 5,
+      "categories": "Cameras",
+      "name": "Purple NX Mini F1 aparat SMART NX",
+      "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/camera2-300x300.png",
+      "price": "559.00",
+      "discountPrice": "",
+      "type": "featured"
+    },
+    {
+      "id": 6,
+      "categories": "Printers",
+      "name": "Full Color LaserJet Pro M452dn",
+      "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/printer-300x300.png",
+      "price": "1,050.00",
+      "discountPrice": "",
+      "type": "featured"
+    },
+    {
+      "id": 7,
+      "categories": "Computer Cases, Servers",
+      "name": "Aerocool EN52377 Dead Silence Gaming Cube Case",
+      "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/gamecabin-300x300.png",
+      "price": "180.00",
+      "discountPrice": "150.00",
+      "type": "onSale"
+    },
+    {
+      "id": 8,
+      "categories": "Smartphones",
+      "name": "Smartphone 6S 32GB LTE",
+      "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/GoldPhone-1-300x300.png",
+      "price": "1,215.00",
+      "discountPrice": "1,100",
+      "type": "onSale"
+    },
+    {
+      "id": 9,
+      "categories": "Power Banks",
+      "name": "Powerbank 1130 mAh Blue",
+      "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/powerbank-300x300.png",
+      "price": "210.00",
+      "discountPrice": "200.00",
+      "type": "onSale"
+    },
+    {
+      "id": 10,
+      "categories": "Smartwatches",
+      "name": "Smartwatch 2.0 LTE Wifi Waterproof",
+      "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/watch-300x300.png",
+      "price": "725.00",
+      "discountPrice": "700.0",
+      "type": "onSale"
+    },
+    {
+      "id": 11,
+      "categories": "Smartphones",
+      "name": "Ultrabook UX305CA-FC050T",
+      "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/redmi-300x300.png",
+      "price": "1,218.00",
+      "discountPrice": "1,200.00",
+      "type": "onSale"
+    },
+    {
+      "id": 12,
+      "categories": "Laptops, Ultrabooks",
+      "name": "Tablet Red EliteBook Revolve 810 G2",
+      "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/apptablet-300x300.png",
+      "price": "2,299.00",
+      "discountPrice": "2,100.00",
+      "type": "onSale"
+    },
+    {
+      "id": 13,
+      "categories": "Headphone Cases",
+      "name": "Universal Headphones Case in Black",
+      "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/headphonecase-300x300.png",
+      "price": "159.00",
+      "discountPrice": "",
+      "type": "topRated"
+    },
+    {
+      "id": 14,
+      "categories": "Headphone Accessories",
+      "name": "Headphones USB Wires",
+      "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/usbheadphone-300x300.png",
+      "price": "50.00",
+      "discountPrice": "",
+      "type": "topRated"
+    },
+    {
+      "id": 15,
+      "categories": "Headphones",
+      "name": "Ultra Wireless S50 Headphones S50 with Bluetooth",
+      "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/1-300x300.png",
+      "price": "350.00",
+      "discountPrice": "",
+      "type": "topRated"
+    },
+    {
+      "id": 16,
+      "categories": "Audio Speakers",
+      "name": "Wireless Audio System Multiroom 360",
+      "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/WirelessSound-300x300.png",
+      "price": "2,299.00",
+      "discountPrice": "",
+      "type": "topRated"
+    },
+    {
+      "id": 17,
+      "categories": "Laptops",
+      "name": "Tablet White EliteBook Revolve 810 G2",
+      "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/Ultrabooks-300x300.png",
+      "price": "1,300.00",
+      "discountPrice": "",
+      "type": "topRated"
+    },
+    {
+      "id": 18,
+      "categories": "Headphones",
+      "name": "Purple solo 2 Wireless",
+      "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/heade1-300x300.png",
+      "price": "248.00",
+      "discountPrice": "",
+      "type": "topRated"
+    }
+  ]
+}

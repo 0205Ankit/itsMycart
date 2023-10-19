@@ -1,0 +1,232 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  color: #333e48;
+}
+
+body.dark {
+  color: #ffffff;
+  background-color: #181818;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.cart {
+  &:hover {
+    &::after,
+    &::before {
+      display: block;
+    }
+  }
+  &::after {
+    content: "Cart";
+    display: none;
+    position: absolute;
+    background-color: #333e48;
+    color: white;
+    font-size: 11px;
+    padding: 5px 15px;
+    font-weight: 400;
+    border-radius: 7px;
+    z-index: 10;
+    bottom: -100%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    animation: fadeIn 300ms;
+  }
+  &::before {
+    content: "";
+    display: none;
+    position: absolute;
+    background-color: #333e48;
+    padding: 5px;
+    bottom: -60%;
+    left: 50%;
+    transform: translateX(-50%);
+    rotate: 45deg;
+    animation: fadeIn 300ms;
+  }
+}
+
+.user {
+  &:hover {
+    &::after,
+    &::before {
+      display: block;
+    }
+  }
+  &::after {
+    content: "Account";
+    display: none;
+    position: absolute;
+    background-color: #333e48;
+    color: white;
+    font-size: 11px;
+    padding: 5px 15px;
+    font-weight: 400;
+    border-radius: 7px;
+    z-index: 10;
+    bottom: -100%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    animation: fadeIn 300ms;
+  }
+  &::before {
+    content: "";
+    display: none;
+    position: absolute;
+    background-color: #333e48;
+    padding: 5px;
+    bottom: -60%;
+    left: 50%;
+    transform: translateX(-50%);
+    rotate: 45deg;
+    animation: fadeIn 300ms;
+  }
+}
+
+.wishlist {
+  &:hover {
+    &::after,
+    &::before {
+      display: block;
+    }
+  }
+  &::after {
+    content: "Wishlist";
+    display: none;
+    position: absolute;
+    background-color: #333e48;
+    color: white;
+    font-size: 11px;
+    padding: 5px 15px;
+    font-weight: 400;
+    border-radius: 7px;
+    z-index: 10;
+    bottom: -100%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    animation: fadeIn 300ms;
+  }
+  &::before {
+    content: "";
+    display: none;
+    position: absolute;
+    background-color: #333e48;
+    padding: 5px;
+    bottom: -60%;
+    left: 50%;
+    transform: translateX(-50%);
+    rotate: 45deg;
+    animation: fadeIn 300ms;
+  }
+}
+
+.compare {
+  &:hover {
+    &::after,
+    &::before {
+      display: block;
+    }
+  }
+  &::after {
+    content: "Compare";
+    display: none;
+    position: absolute;
+    background-color: #333e48;
+    color: white;
+    font-size: 11px;
+    padding: 5px 15px;
+    font-weight: 400;
+    border-radius: 7px;
+    z-index: 10;
+    bottom: -100%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    animation: fadeIn 300ms;
+  }
+  &::before {
+    content: "";
+    display: none;
+    position: absolute;
+    background-color: #333e48;
+    padding: 5px;
+    bottom: -60%;
+    left: 50%;
+    transform: translateX(-50%);
+    rotate: 45deg;
+    animation: fadeIn 300ms;
+  }
+}
+
+.poster {
+  -webkit-box-shadow: inset 10px -12px 27px -10px rgba(0, 0, 0, 0.3);
+  -moz-box-shadow: inset 10px -12px 27px -10px rgba(0, 0, 0, 0.3);
+  box-shadow: inset 10px -12px 27px -10px rgba(0, 0, 0, 0.3);
+}
+
+.hover-navlinks {
+  -webkit-box-shadow: inset -14px -15px 27px -10px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: inset -14px -15px 27px -10px rgba(0, 0, 0, 0.1);
+  box-shadow: inset -14px -15px 27px -10px rgba(0, 0, 0, 0.1);
+}
+
+.readmore {
+  &:hover {
+    &::after,
+    &::before {
+      display: block;
+    }
+  }
+  &::after {
+    content: "Read More";
+    display: none;
+    white-space: nowrap;
+    position: absolute;
+    background-color: #333e48;
+    color: white;
+    font-size: 11px;
+    padding: 10px 15px;
+    font-weight: 400;
+    border-radius: 7px;
+    bottom: -100%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    animation: fadeIn 300ms;
+  }
+  &::before {
+    content: "";
+    display: none;
+    position: absolute;
+    background-color: #333e48;
+    padding: 5px;
+    bottom: -70%;
+    left: 50%;
+    transform: translateX(-50%);
+    rotate: 45deg;
+    animation: fadeIn 300ms;
+  }
+}
+
+.innershadow-box {
+  &:hover {
+    -webkit-box-shadow: inset 0px 0px 15px 0px rgba(0, 0, 0, 0.15);
+    -moz-box-shadow: inset 0px 0px 15px 0px rgba(0, 0, 0, 0.15);
+    box-shadow: inset 0px 0px 15px 0px rgba(0, 0, 0, 0.15);
+  }
+}
+
+.auto-slider {
+  &:hover {
+    animation-play-state: paused;
+  }
+}

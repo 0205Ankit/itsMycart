@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Computers & Accessories",
+      "categories": [
+        {
+          "name": "Computers & Accessories",
+          "type": [
+            "All Computers & Accessories",
+            "Laptops, Desktop & Monitors",
+            "Printers & Ink",
+            "Networking & Internet Devices",
+            "Computer Accessories",
+            "Software"
+          ]
+        },
+        {
+          "name": "Office & Stationery",
+          "type": ["All Office & Stationery"]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Cameras, Audio & Video",
+      "categories": [
+        {
+          "name": "Cameras & Photography",
+          "type": [
+            "Lenses",
+            "Camera Accessories",
+            "Security & Surveillance",
+            "Binoculars & Telescopes",
+            "Camcorder"
+          ]
+        },
+        {
+          "name": "Audio & Video",
+          "type": ["All Audio & Video ", " Headphones & Speakers"]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Mobile & Tablets",
+      "categories": [
+        {
+          "name": "Mobile & Tablets",
+          "type": [
+            "All Mobile Phones",
+            "Smartphones",
+            "Refurbished Mobiles",
+            "All Mobile Accessories",
+            "Cases & Covers",
+            "All Tablets",
+            "Tablet Accessories"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Movies,Music & Video Games",
+      "categories": [
+        {
+          "name": "Movies & Tv Shows",
+          "type": ["All Movies & Tv Shows", "All English", "All Hindi"]
+        },
+        {
+          "name": "Video Games",
+          "type": ["PC Games", "Consoles", "Accessories"]
+        },
+        {
+          "name": "Music",
+          "type": ["All Music", "Indian Classical", "Music Instruments"]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Tv & Audio",
+      "categories": [
+        {
+          "name": "Audio & Video",
+          "type": [
+            "All Audio & Video",
+            "Televisions",
+            "Headphones",
+            "Speakers",
+            "Audio & Video Accessories"
+          ]
+        },
+        {
+          "name": "Music",
+          "type": ["Televisions", "Headphones"]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Watches & Eyewear",
+      "categories": [
+        {
+          "name": "Watches",
+          "type": [
+            "All Watches",
+            "Mes's Watches",
+            "Women's Watches",
+            "Premium Watches",
+            "Deals on Watches"
+          ]
+        },
+        {
+          "name": "Eyewear",
+          "type": ["Mes's Sunglasses"]
+        }
+      ]
+    }
+  ]
+}
