@@ -7,7 +7,7 @@ import Navbar from "./components/Navbar";
 import Poster from "./components/Poster";
 import SeasonalProducts from "./components/SeasonalProducts";
 import SignupBar from "./components/SignupBar";
-import CompanyNameSlider from "./components/companyNameSlider";
+import CompanyNameSlider from "./components/CompanyNameSlider";
 import { BsFillArrowUpCircleFill } from "react-icons/bs";
 import ToogleSwitch from "./helper/switch";
 
